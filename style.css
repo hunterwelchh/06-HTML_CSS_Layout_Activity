@@ -1,0 +1,67 @@
+body{
+    background-color: #efeee7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333333;
+    padding: 0;
+    margin: auto;
+}
+header {
+    background-color: #333333;  
+    margin: auto;
+}
+h1{
+    color:#eee;
+    font-size: 28px;
+    padding: 25px;
+    text-align:center;
+    margin: auto;
+}
+h2{
+    font-size: 28px;
+    margin: auto;
+}
+#main-bio, #contact-info, #bio-image {
+    float: left;
+    margin: auto;
+}
+body{
+    background-color: #efeee7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333333;
+    padding: 0;
+    margin: auto;
+}
+header {
+    background-color: #333333;
+    margin-top: 0px;
+    position: static;
+    margin: auto;
+}
+h1{
+    color:#eee;
+    font-size: 28px;
+    margin: auto;
+}
+h2{
+    font-size: 28px;
+    margin: auto;
+    padding: 20px;
+}
+#main-bio, #contact-info, #bio-images, #lorem {
+    float: left;
+    margin: auto;
+}
+#main-bio{
+    width: 70%;
+    margin: auto;
+}
+#contact-info {
+    width: 30%;
+    margin: auto;
+}
+#bio-image {
+    padding: 20px;
+}
+#lorem {
+    overflow: auto;
+}
